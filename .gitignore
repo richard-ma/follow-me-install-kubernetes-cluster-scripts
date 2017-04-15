@@ -1,0 +1,4 @@
+bin/*
+keys/*.csr
+keys/*.pem
+keys/kubernetes-csr.json
